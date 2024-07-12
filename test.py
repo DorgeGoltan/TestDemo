@@ -6,3 +6,5 @@ def (sub)
     a - b = c
 def (mul)
     a * b = c
+def (div)
+    a / b = c
